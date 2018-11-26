@@ -59,6 +59,7 @@ public class OrderPos {
     @Column(name = "ORDERPROPS_QUANTITY",nullable = false)
     private Integer quantity;
 
+
     @Column(name = "ORDERPROPS_GOODNAME", nullable = false)
     private String goodName;
 
